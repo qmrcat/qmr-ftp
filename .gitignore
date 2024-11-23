@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.log
+old.config.json
+server copy.js
+proves/
+instal·lacio/
+connexions/connexio.json

@@ -1,0 +1,16 @@
+{
+  "ftp": {
+    "host": "ftp.server",
+    "user": "user",
+    "password": "password",
+    "secure": false,
+    "port": 21
+  },
+  "localDir": "../fitxers_a_enviar",
+  "remoteDir": "/public_ftp/prova_recepcio",
+  "downloadRemoteDir": "/public_ftp/prova_recepcio",
+  "deleteAfterUpload": true,
+  "deleteAfterDownload": true,
+  "downloadDir": "../fitxers_descarregats",
+  "Observacions": "Observacions"
+}

@@ -1,0 +1,23 @@
+{
+   "users": {
+        "activarLocal": true,
+        "activarServidor": true,
+        "veureTransaccions": true,
+        "activarConnexio": false,
+        "activarArrosegarFitxers": true,
+        "permisEliminarLogs": false,
+        "permisTancarServidor": false,
+        "permisPujar": true,
+        "permisBaixar": true
+    },
+    "admin":{
+        "activarLocal": true,
+        "activarServidor": true,
+        "veureTransaccions": true,
+        "activarConnexio": true,
+        "activarConfig": true,
+        "activarArrosegarFitxers": true,
+        "permisEliminarLogs": true,
+        "permisTancarServidor": true
+    }
+}
